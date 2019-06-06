@@ -71,8 +71,9 @@
 42. git log --graph  ==>see graphical of the branch merging
 
 ## unchanged
-git update-index --assume-unchanged config/self.env.js
-git update-index --no-assume-unchanged /path/to/file
+1. git update-index --assume-unchanged <yourfilepath>
+
+2. git update-index --no-assume-unchanged <yourfilepath>
 
 
 
