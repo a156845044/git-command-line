@@ -29,7 +29,7 @@
 1. git checkout -b dev    ==> create and switch to dev branch
 20. git branch ==> check all the branch
 20. git brach -a ==>branch local and remote
- git checkout -b dev origin/dev ==> create and switch to origin dev branch
+21. git checkout -b dev origin/dev ==> create and switch to origin dev branch
 
 21. git checkout `brachName` ==> switch to `brachName` branch, when switch branch please commit your change first
 22. git merge dev  ==>merge the dev to current branch
